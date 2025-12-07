@@ -158,3 +158,7 @@ src/
 - BM25 인덱스는 `data/index/bm25_index.pkl`에 저장됩니다.
 - 기본 LLM 모델은 `gemini-1.5-flash`이며, `src/config.py`에서 변경할 수 있습니다.
 
+## 실행 예시
+![](exam1.png)
+
+![](exam2.png)
